@@ -249,7 +249,7 @@ In questo articolo abbiamo visto il meccanismo delle *subscription*, soluzione p
 
  
 
-Riferimenti :
+***Riferimenti***
 
 <https://github.com/davideangelone/graphql-subscriptions>
 
