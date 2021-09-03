@@ -13,7 +13,7 @@
   "author": "Davide Angelone",
   "license": "ISC",
   "dependencies": {
-    "apollo-server-express": "^2.15.0",
+    "apollo-server-express": "^2.25.2",
     "express": "^4.17.1"
   }
 }
