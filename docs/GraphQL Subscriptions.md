@@ -1,5 +1,5 @@
 ## GRAPHQL Subscriptions
-
+![img](GraphQLSubscriptions.jpg)
  
 
 Nei precedenti articoli abbiamo parlato delle `query` e `mutations` di GraqhQL e abbiamo implementato una API dimostrativa di un elementare servizio di messaggistica.
