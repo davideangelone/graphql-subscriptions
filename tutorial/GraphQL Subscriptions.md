@@ -44,19 +44,9 @@ Chiaramente anche le subscriptions, come le `query` e `mutations`, devono essere
 
 E’ possibile sia da parte del client che del server annullare la subscription precedentemente stabilita.
 
- 
-
-*Sequence diagram Subscribe – Unsubscribe*
-
-![sub/unsub](https://github.com/davideangelone/graphql-subscriptions/blob/master/tutorial/subscriptions_02.png)
 
  
 
-*Sequence diagram di notifica evento al client*
-
-![img](https://github.com/davideangelone/graphql-subscriptions/blob/master/tutorial/subscriptions_03.png)
-
- 
 
 ***Implementazione***
 
