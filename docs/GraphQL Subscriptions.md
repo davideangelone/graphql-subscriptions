@@ -47,13 +47,13 @@ E’ possibile sia da parte del client che del server annullare la subscription 
 
 *Sequence diagram Subscribe – Unsubscribe*
 
-![sub/unsub](https://github.com/davideangelone/graphql-subscriptions/blob/master/docs/subscriptions_02.png)
+![sub/unsub](https://davideangelone.github.io/graphql-subscriptions/docs/subscriptions_02.png)
 
 
 
 *Sequence diagram di notifica evento al client*
 
-![event](https://github.com/davideangelone/graphql-subscriptions/blob/master/docs/subscriptions_03.png)
+![event](https://davideangelone.github.io/graphql-subscriptions/docs/subscriptions_03.png)
 
  
 
